@@ -1,0 +1,7 @@
+1. Decistion Tree
+Scores Mean 4.804809031648944
+Scores std 0.8426407910361732
+
+2. RandomForest
+Scores Mean 3.404414497674947
+Scores std 0.4986876220427589
